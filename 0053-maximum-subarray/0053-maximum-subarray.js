@@ -3,19 +3,17 @@
  * @return {number}
  */
 var maxSubArray = function(nums) {
-    if(nums.length===1){
-        return nums[0]
-    }
-    let arr = []
-    arr[0] = nums[0]
-    arr[1] = Math.max(nums[0]+nums[1], nums[1])
-    let maxCount = Math.max(arr[0],arr[1])
+    if(nums.length === 0) return 0;
 
-    for(let i=2;i<nums.length;i++){
-       let sum = Math.max(nums[i] + arr[i-1], nums[i])
-       arr.push(sum)
-       maxCount = Math.max(sum,maxCount)
+    let currentMax = nums[0]; // max sum ending at current index
+    let globalMax = nums[0];  // overall max sum
+
+    for(let i = 1; i < nums.length; i++){
+        // either extend previous subarray or start new from nums[i]
+        currentMax = Math.max(nums[i], nums[i] + currentMax);
+        globalMax = Math.max(globalMax, currentMax);
     }
-    return maxCount
+
+    return globalMax;
 
 };
