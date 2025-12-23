@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nehasunal/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Nehasunal/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Nehasunal/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nehasunal/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nehasunal/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Nehasunal/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nehasunal/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nehasunal/DSA-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
