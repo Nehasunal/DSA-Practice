@@ -26,9 +26,7 @@ var isAnagram = function(s, t) {
          count++
           tmap.set(t[j], count)
     }
-    console.log(smap, tmap)
     for(let [key, value] of smap){
-        console.log(key,value)
         if(!tmap.has(key)){
             return false
         }
