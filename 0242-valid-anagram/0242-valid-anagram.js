@@ -19,20 +19,25 @@ var isAnagram = function(s, t) {
     }
 
     for(let j=0;j< t.length;j++){
-       let count = 0
-       if(tmap.has(t[j])){
-          count = tmap.get(t[j])
+       if(!smap.has(t[j])){
+
+       return false
        }
-         count++
-          tmap.set(t[j], count)
+          count = smap.get(t[j])
+          count--;
+          smap.set(t[j], count)
+          if(count === 0){
+            smap.delete(t[j])
+          }
+       
     }
-    for(let [key, value] of smap){
-        if(!tmap.has(key)){
-            return false
-        }
-        if(value !== tmap.get(key)){
-            return false;
-        }
-    }
+    // for(let [key, value] of smap){
+    //     if(!tmap.has(key)){
+    //         return false
+    //     }
+    //     if(value !== tmap.get(key)){
+    //         return false;
+    //     }
+    // }
     return true
 };
