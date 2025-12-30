@@ -37,7 +37,6 @@ var isIsomorphic = function(s, t) {
          }
       } else{       
         const valueExists = [...map.values()].includes(t[i])
-        console.log(valueExists, t[i], s[i])
         if(valueExists){
             return false
         }
