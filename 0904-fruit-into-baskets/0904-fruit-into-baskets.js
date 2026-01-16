@@ -27,6 +27,7 @@ var totalFruit = function(fruits) {
     // }
     // return maxSum
     let i=0;
+    let basket=map.size
     for(let j=0;j<fruits.length;j++){
         
         //     while(map.get(fruits[i]!==1)){
@@ -36,7 +37,7 @@ var totalFruit = function(fruits) {
         // }
 
         map.set(fruits[j], (map.get(fruits[j])||0) +1)
-        while(map.size>2){
+        while(map.size > 2){
             map.set(fruits[i], (map.get(fruits[i])||0) -1)
             if(map.get(fruits[i])===0){
                 map.delete(fruits[i])
