@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nehasunal/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Nehasunal/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Nehasunal/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Nehasunal/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nehasunal/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nehasunal/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nehasunal/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nehasunal/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Nehasunal/DSA-Practice/tree/master/0189-rotate-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nehasunal/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Nehasunal/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Nehasunal/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nehasunal/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nehasunal/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nehasunal/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nehasunal/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
