@@ -5,22 +5,25 @@
  */
 var topKFrequent = function(nums, k) {
     let map = new Map()
+    let bucket = []
     for(let i=0;i< nums.length;i++){
         map.set(nums[i], (map.get(nums[i])||0)+1)
+        bucket[i] = []
+    }
+    bucket[nums.length] = [] 
+    for(let [key,val] of map){
+        bucket[val].push(key)
     }
     let res = []
-    for(let i=0;i<k;i++){
-    let maxVal =-1;
-    let maxIndex = -1
-        for(let [key,value] of map){
-            let val = map.get(key)
-            maxVal = Math.max(maxVal, val)
-            if(maxVal <= val){
-                maxIndex = key
+    for(let i=bucket.length-1;i>=0;i--){
+        if(bucket[i].length >0){
+            
+            res.push(...bucket[i])
+            if(res.length === k){
+                return res
             }
         }
-        res.push(maxIndex)
-        map.delete(maxIndex)
     }
     return res
+    
 };
