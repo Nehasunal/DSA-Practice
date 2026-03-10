@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nehasunal/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Nehasunal/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Nehasunal/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 ## Recursion
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nehasunal/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nehasunal/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Nehasunal/DSA-Practice/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nehasunal/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Nehasunal/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
