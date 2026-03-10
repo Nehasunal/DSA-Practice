@@ -6,9 +6,6 @@ var compress = function(chars) {
     let j=0;
     let i=0;
     let k=0;
-    if(chars.length <= 1){
-        return chars.length
-    }
     while(i < chars.length && j<chars.length){
         let count= 0;
         while(chars[i] === chars[j]){
