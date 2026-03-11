@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nehasunal/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nehasunal/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Nehasunal/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Nehasunal/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
