@@ -11,14 +11,7 @@
  * @return {number}
  */
 var countNodes = function(root) {
-    let count=0
+    if (!root) return 0;
 
-    function countDfs(root){
-        if(!root) return 0
-        count++
-        countDfs(root.left)
-        countDfs(root.right)
-    }
-    countDfs(root)
-    return count
+    return 1 + countNodes(root.left) + countNodes(root.right);
 };
