@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Nehasunal/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/Nehasunal/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nehasunal/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nehasunal/DSA-Practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Nehasunal/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Nehasunal/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/Nehasunal/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nehasunal/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nehasunal/DSA-Practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Nehasunal/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Nehasunal/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Nehasunal/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/Nehasunal/DSA-Practice/tree/master/0563-binary-tree-tilt) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nehasunal/DSA-Practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nehasunal/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nehasunal/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Nehasunal/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nehasunal/DSA-Practice/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 <!---LeetCode Topics End-->
