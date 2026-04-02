@@ -16,15 +16,12 @@ var hasPathSum = function(root, targetSum) {
     function findsum(root, sum){
         if(!root) return 0
         sum = sum + root.val
-        console.log(sum)
         if(!root.left && !root.right){
             if(sum === targetSum){
-                console.log("here tagt")
                 return true
             }
             sum = sum - root.val
         }
-        console.log(sum,"==")
         let lh = findsum(root.left, sum)
         if(lh){
             return true
