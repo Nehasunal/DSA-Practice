@@ -16,8 +16,7 @@ var diameterOfBinaryTree = function(root) {
         if(!root) return 0
         let left = dia(root.left)
         let right = dia(root.right)
-        let val = Math.max(Math.max(left,right), left+right)
-        max = Math.max(val,max)
+        max = Math.max(left+right,max)
         return Math.max(left,right) +1
     }
     dia(root)
