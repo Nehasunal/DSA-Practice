@@ -8,7 +8,7 @@ var maximumLengthSubstring = function(s) {
     let map = new Map()
     for(let i =0;i < s.length; i++){
         map.set(s[i], (map.get(s[i])||0)+1)
-        while(map.has(s[i]) && map.get(s[i])>2){
+        while(map.get(s[i])>2){
            map.set(s[left], map.get(s[left])-1)
            left++
         }
