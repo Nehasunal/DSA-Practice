@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Nehasunal/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nehasunal/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Nehasunal/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/Nehasunal/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Nehasunal/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Interactive
 |  |
