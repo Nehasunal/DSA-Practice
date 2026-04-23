@@ -18,7 +18,7 @@ var maxSatisfied = function(customers, grumpy, minutes) {
     }
     let max =sum
     for(let i=minutes; i < customers.length;i++){ 
-        if(grumpy[i-minutes] !== 0){
+        if(grumpy[i-minutes] === 1){
             sum = sum - customers[i - minutes] 
         }
         if(grumpy[i] === 1){
