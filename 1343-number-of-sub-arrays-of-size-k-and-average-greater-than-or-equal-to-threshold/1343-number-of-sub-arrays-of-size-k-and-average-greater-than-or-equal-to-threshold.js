@@ -10,8 +10,7 @@ var numOfSubarrays = function(arr, k, threshold) {
     for(let i=0;i< arr.length;i++){
         sum = sum + arr[i]
         if(i >= k-1){
-            let avg = sum /k
-            if(avg >= threshold) count++
+            if(sum >= k * threshold) count++
             sum = sum - arr[i+1-k]
         }
     }
