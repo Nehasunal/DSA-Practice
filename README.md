@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Nehasunal/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nehasunal/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Nehasunal/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nehasunal/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Nehasunal/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nehasunal/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nehasunal/DSA-Practice/tree/master/1052-grumpy-bookstore-owner) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Nehasunal/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nehasunal/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nehasunal/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nehasunal/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Nehasunal/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehasunal/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nehasunal/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Nehasunal/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/Nehasunal/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Nehasunal/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nehasunal/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nehasunal/DSA-Practice/tree/master/0443-string-compression) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Nehasunal/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1768-merge-strings-alternately](https://github.com/Nehasunal/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nehasunal/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nehasunal/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
