@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nehasunal/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nehasunal/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nehasunal/DSA-Practice/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/Nehasunal/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Nehasunal/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nehasunal/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nehasunal/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Nehasunal/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Nehasunal/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Nehasunal/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Nehasunal/DSA-Practice/tree/master/0205-isomorphic-strings) |
