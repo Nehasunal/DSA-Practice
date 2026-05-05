@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Nehasunal/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Nehasunal/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nehasunal/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2485-find-the-pivot-integer](https://github.com/Nehasunal/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nehasunal/DSA-Practice/tree/master/0189-rotate-array) |
+| [2485-find-the-pivot-integer](https://github.com/Nehasunal/DSA-Practice/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
 |  |
 | ------- |
