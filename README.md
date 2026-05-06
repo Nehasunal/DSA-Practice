@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nehasunal/DSA-Practice/tree/master/0443-string-compression) |
+| [0905-sort-array-by-parity](https://github.com/Nehasunal/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Nehasunal/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nehasunal/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Nehasunal/DSA-Practice/tree/master/1768-merge-strings-alternately) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Nehasunal/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Nehasunal/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Nehasunal/DSA-Practice/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Nehasunal/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nehasunal/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nehasunal/DSA-Practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/Nehasunal/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nehasunal/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/Nehasunal/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nehasunal/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nehasunal/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
