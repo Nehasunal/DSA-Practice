@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nehasunal/DSA-Practice/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/Nehasunal/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Nehasunal/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Nehasunal/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nehasunal/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nehasunal/DSA-Practice/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/Nehasunal/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Nehasunal/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1768-merge-strings-alternately](https://github.com/Nehasunal/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nehasunal/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -234,11 +236,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Nehasunal/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nehasunal/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/Nehasunal/DSA-Practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Nehasunal/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Nehasunal/DSA-Practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Nehasunal/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Nehasunal/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Interactive
