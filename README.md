@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nehasunal/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Nehasunal/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Nehasunal/DSA-Practice/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Nehasunal/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Nehasunal/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Nehasunal/DSA-Practice/tree/master/0905-sort-array-by-parity) |
@@ -232,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nehasunal/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nehasunal/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0682-baseball-game](https://github.com/Nehasunal/DSA-Practice/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Nehasunal/DSA-Practice/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Nehasunal/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Interactive
