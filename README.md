@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nehasunal/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nehasunal/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Nehasunal/DSA-Practice/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nehasunal/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Nehasunal/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nehasunal/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nehasunal/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Nehasunal/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/Nehasunal/DSA-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Nehasunal/DSA-Practice/tree/master/0844-backspace-string-compare) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nehasunal/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nehasunal/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nehasunal/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
