@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Nehasunal/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Nehasunal/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nehasunal/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nehasunal/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nehasunal/DSA-Practice/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Nehasunal/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Nehasunal/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Nehasunal/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nehasunal/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Nehasunal/DSA-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nehasunal/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Nehasunal/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nehasunal/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Nehasunal/DSA-Practice/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Nehasunal/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Nehasunal/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1768-merge-strings-alternately](https://github.com/Nehasunal/DSA-Practice/tree/master/1768-merge-strings-alternately) |
