@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Nehasunal/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Nehasunal/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Nehasunal/DSA-Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Nehasunal/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nehasunal/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nehasunal/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Nehasunal/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nehasunal/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nehasunal/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Nehasunal/DSA-Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Greedy
 |  |
 | ------- |
